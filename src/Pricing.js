@@ -166,7 +166,7 @@ export default function Pricing() {
         </Typography>
       </Container>
       {/* End hero unit */}
-      <img src={image}></img>
+      <img src={image} style={{maxHeight: "100vh"}}></img>
      
       {/* Footer */}
       <Container maxWidth="md" component="footer" className={classes.footer}>
