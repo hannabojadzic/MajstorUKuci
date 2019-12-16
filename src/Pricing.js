@@ -147,6 +147,9 @@ export default function Pricing() {
               Usluge
             </Link>
             <Link variant="button" color="textPrimary" href="#" className={classes.link}>
+              Kontakt
+            </Link>
+            <Link variant="button" color="textPrimary" href="#" className={classes.link}>
               Zadovoljni korisnici
             </Link>
           </nav>
